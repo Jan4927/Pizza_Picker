@@ -1,6 +1,6 @@
 # Pizza Picker
 
-**Pizza Picker** to prosta aplikacja webowa stworzona w Pythonie z użyciem frameworka Flask. Pozwala użytkownikowi losowo wybrać jedną z dostępnych pizz z listy. Projekt zawiera elementy CI/CD oraz wdrożenie na platformie Azure.
+**Pizza Picker** to prosta aplikacja webowa stworzona w Pythonie z użyciem frameworka Flask. Pozwala użytkownikowi losowo wybrać jedną z dostępnych pizz z listy oraz pizzerię w której chcemy zjeść pizzę bez zbędnego zastanawiania się. Projekt zawiera elementy CI/CD oraz wdrożenie na platformie Azure.
 
 ---
 
