@@ -7,6 +7,8 @@ PIZZAS = [
     {"name": "Pepperoni",  "vegetarian": False, "spicy": False},
     {"name": "Diavola",    "vegetarian": False, "spicy": True},
     {"name": "Funghi",     "vegetarian": True,  "spicy": False},
+    {"name": "Hawaiian", "vegetarian": False, "spicy": False},
+
 ]
 
 @app.get("/")
