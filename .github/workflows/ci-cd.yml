@@ -25,6 +25,7 @@ jobs:
           pip install -r requirements.txt
 
       - name: Run tests
+	working-directory: ./Pizza_Picker
         run: pytest -q
 
   deploy:
